@@ -5,7 +5,7 @@ Hi 👋 My name is Thitiwut Thongbaisri
 Software Developer
 ------------------
 
-I'm a Full-stack developer with 4 years of experience. Skilled in TypeScript, JavaScript, Node.js, Vue.js, React.js. Experienced in web application development related to ERP system, Corporate website, Booking website, e-commerce. My personality is Self-motivated and fast learner, Responsible. I like learning new technologies and like a challenge.
+I'm a Full-stack developer with 4 years of experience. Skilled in TypeScript, JavaScript, Node.js, Vue.js, React.js. Base on Backend developer.
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [thitiwut.wf@gmail.com](mailto:thitiwut.wf@gmail.com)
